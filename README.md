@@ -103,7 +103,7 @@ The rib geometry is refined in Fusion 360 and exported into STL format for subse
 
 | File | Description |
 |---|---|
-| [`model/naca-4412-airfoil-rib.stl`](Airfoil Rib (NACA 4412).stl) | STL mesh for 3D printing and visualization |
+| [`model/naca-4412-airfoil-rib.stl`](model/airfoil-rib-naca4412.stl) | STL mesh for 3D printing and visualization |
 | [`model/naca-4412-airfoil-rib.step`](model/naca-4412-airfoil-rib.step) | STEP file for CAD interoperability |
 | [`model/naca-4412-airfoil-rib.f3d`](model/naca-4412-airfoil-rib.f3d) | Original Autodesk Fusion 360 project |
 | [`images/preview.png`](images/preview.png) | Main CAD model preview |
