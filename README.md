@@ -51,8 +51,8 @@ For a nominal chord length of approximately 150 mm:
 | Material | PLA (planned) |
 | Manufacturing Method | FDM 3D Printing |
 | Application | Fixed-Wing UAV |
-| Planned Half-Wing Span | ~600 mm |
-| Planned Total Wingspan | ~1200 mm |
+| Planned Half-Wing Span | ~600-750 mm |
+| Planned Total Wingspan | ~1200-1500 mm |
 
 ---
 
@@ -122,8 +122,8 @@ The following manufacturing parameters will be documented after the first physic
 
 | Setting | Value |
 |---|---|
-| Printer | Not specified |
-| Material | PLA (planned) |
+| Printer | Bambu Lab |
+| Material | PLA or ASA |
 | Layer Height | Not tested |
 | Infill | Not tested |
 | Wall Count | Not tested |
