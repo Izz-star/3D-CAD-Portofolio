@@ -1,10 +1,10 @@
 # NACA 4412 Airfoil Rib
 
-A 3D CAD design of a lightweight wing rib based on the **NACA 4412 airfoil profile**, developed using **Autodesk Fusion 360** for a fixed-wing Unmanned Aerial Vehicle (UAV).
+A 3D CAD design of a lightweight wing rib based on the *NACA 4412 airfoil profile, developed using **Autodesk Fusion 360* for a fixed-wing Unmanned Aerial Vehicle (UAV).
 
 ![NACA 4412 Airfoil Rib](images/preview.png)
 
-🔍 **[View the 3D Model in Your Browser](model/naca-4412-airfoil-rib.stl)**
+🔍 *[View the 3D Model in Your Browser](model/naca-4412-airfoil-rib.stl)*
 
 ---
 
@@ -12,7 +12,7 @@ A 3D CAD design of a lightweight wing rib based on the **NACA 4412 airfoil profi
 
 This project focuses on the design and development of wing ribs for a fixed-wing UAV wing structure.
 
-The rib geometry is based on the **NACA 4412 airfoil profile**, featuring a cambered aerodynamic shape with a maximum camber of 4% and a maximum thickness of 12% of the chord length.
+The rib geometry is based on the *NACA 4412 airfoil profile*, featuring a cambered aerodynamic shape with a maximum camber of 4% and a maximum thickness of 12% of the chord length.
 
 The design incorporates structural openings for spar integration and aims to balance structural considerations, weight efficiency, and compatibility with FDM 3D printing.
 
@@ -22,9 +22,9 @@ The ribs are intended to form part of a modular wing structure with an approxima
 
 The NACA 4412 is a four-digit airfoil profile:
 
-- **4** – Maximum camber of 4% of the chord.
-- **4** – Maximum camber position at 40% of the chord.
-- **12** – Maximum thickness of 12% of the chord.
+- *4* – Maximum camber of 4% of the chord.
+- *4* – Maximum camber position at 40% of the chord.
+- *12* – Maximum thickness of 12% of the chord.
 
 For a nominal chord length of approximately 150 mm:
 
@@ -103,17 +103,20 @@ The rib geometry is refined in Fusion 360 and exported into STL format for subse
 
 | File | Description |
 |---|---|
-| [`model/naca-4412-airfoil-rib.stl`](model/airfoil-rib-naca4412.stl) | STL mesh for 3D printing and visualization |
-| [`model/naca-4412-airfoil-rib.step`](model/naca-4412-airfoil-rib.step) | STEP file for CAD interoperability |
-| [`model/naca-4412-airfoil-rib.f3d`](model/naca-4412-airfoil-rib.f3d) | Original Autodesk Fusion 360 project |
-| [`images/preview.png`](images/preview.png) | Main CAD model preview |
-| [`images/technical-drawing.png`](images/technical-drawing.png) | Technical drawing and dimensions |
+| [model/naca-4412-airfoil-rib.stl](model/naca-4412-airfoil-rib.stl) | STL mesh of the root rib (5 mm) for 3D printing and visualization |
+| [images/preview.png](images/preview.png) | Main CAD model preview |
+
+<!-- Kalau file di bawah ini udah di-upload ke folder yang sesuai, hapus tanda komentar ini biar barisnya muncul di tabel:
+| [model/naca-4412-airfoil-rib.step](model/naca-4412-airfoil-rib.step) | STEP file for CAD interoperability |
+| [model/naca-4412-airfoil-rib.f3d](model/naca-4412-airfoil-rib.f3d) | Original Autodesk Fusion 360 project |
+| [images/technical-drawing.png](images/technical-drawing.png) | Technical drawing and dimensions |
+-->
 
 ---
 
 ## 🖨️ Print Settings
 
-**Manufacturing Status: Not printed yet.**
+*Manufacturing Status: Not printed yet.*
 
 The following manufacturing parameters will be documented after the first physical prototype is produced.
 
@@ -154,4 +157,4 @@ The development process explores the practical integration of aerodynamic geomet
 
 ---
 
-*Designed and developed using Autodesk Fusion 360.*
+Designed and developed using Autodesk Fusion 360.
