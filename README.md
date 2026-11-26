@@ -103,8 +103,8 @@ The rib geometry is refined in Fusion 360 and exported into STL format for subse
 
 | File | Description |
 |---|---|
-| [model/naca-4412-airfoil-rib.stl](naca-4412-airfoil-rib.stl) | STL mesh of the root rib (5 mm) for 3D printing and visualization |
-| [images/preview.png](preview.png) | Main CAD model preview |
+| [naca-4412-airfoil-rib.stl](naca-4412-airfoil-rib.stl) | STL mesh of the root rib (5 mm) for 3D printing and visualization |
+| [preview.png](preview.png) | Main CAD model preview |
 
 <!-- Kalau file di bawah ini udah di-upload ke folder yang sesuai, hapus tanda komentar ini biar barisnya muncul di tabel:
 | [model/naca-4412-airfoil-rib.step](model/naca-4412-airfoil-rib.step) | STEP file for CAD interoperability |
