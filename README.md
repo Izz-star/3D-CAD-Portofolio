@@ -48,7 +48,7 @@ For a nominal chord length of approximately 150 mm:
 | Tip Rib Thickness | 3 mm |
 | Structural Features | Spar mounting openings |
 | CAD Software | Autodesk Fusion 360 |
-| Material | PLA (planned) |
+| Material | PLA or ASA |
 | Manufacturing Method | FDM 3D Printing |
 | Application | Fixed-Wing UAV |
 | Planned Half-Wing Span | ~600-750 mm |
